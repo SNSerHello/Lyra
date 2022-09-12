@@ -1,5 +1,6 @@
 = Lyra
 
+link:https://www.bfgroup.xyz/Lyra/lyra.html[Lyra使用手册]
 
 == 在Windows下编译
 
